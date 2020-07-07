@@ -47,7 +47,7 @@ DELETE : This API can also delete a question posted by a user
                    > pip install djangorestframework
                    > pip install django_filter
                    > pip install django-import-export 
-                  (Ignore if these are already installed in your pc)
+                  (Ignore & Skip this step if these are already installed in your pc)
 3. Save everything
 4. Finally run command > python manage.py runserver
 5. Please do migrations if things doesn't work but as we are using default dbsqlite so it wont be an issue.
