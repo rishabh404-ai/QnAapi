@@ -51,7 +51,8 @@ DELETE : This API can also delete a question posted by a user
                    > pip install django 
                    > pip install djangorestframework
                    > pip install django-filter
-                   > pip install django-import-export 
+                   > pip install django-import-export
+                   > pip install Pillow
                   (Ignore & Skip this step if these are already installed in your pc)
 3. Save everything
 4. Finally run command > python manage.py runserver
