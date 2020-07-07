@@ -58,4 +58,8 @@ DELETE : This API can also delete a question posted by a user
 4. Finally run command > python manage.py runserver
 5. (Optional) Please do migrations if things doesn't work but as we are using default dbsqlite so it wont be an issue.
 
+Heroku Web Hosting > This app is also hosted on the web with heroku. Please find the link below :
+
+>>     https://qnarestapi.herokuapp.com/Questions/
+
 If you are facing any issue, Please reach me through mail - mishrarishabh404it@gmail.com
