@@ -18,11 +18,13 @@ POST: This API should be able to add a single question to the system. To post a 
 
 ![](working-screenshots/Post.jpg)
 
-PUT: Given the question id, this API will update the data related to that particular question. User can update text or image file for a particular question. A user can also add or remove some tags from the question. With every Id, a URL of the profile associated with the particular id is auto generated & gets attached to it so that we can directly go to that profile without editing the browser url again and again.
+PUT: Given the question id, this API will update the data related to that particular question. User can update text or image file for a particular question. A user can also add or remove some tags from the question. With every user id, a URL of the profile associated with the particular id is auto generated & gets attached to it so that we can directly go to that profile without editing the browser url again and again.
 
 ![](working-screenshots/Put.jpg)
 
-GET: Given a single tag or a list of tags, this API will return a list of questions which have those tags. Just Go to : (Filters > Search > Enter tags to search) You can also arrange the api in ascending/descending order of ids.
+GET: Given a single tag or a list of tags, this API will return a list of questions which have those tags. Just find Filter option in above right corner & Go to :
+(Filters > Search > Enter tags to search).
+You can also arrange the api in ascending/descending order of ids.
 
 ![](working-screenshots/Search_Get1.jpg)
 
