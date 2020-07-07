@@ -1,5 +1,8 @@
 # QnAapi with Heroku Web Hosting 
 Heroku Web hosting of this API link is given at the bottom of the Readme file. 
+
+
+
 Structure of a question:
 Every question in have these fields → Text (ex: “What is Java?”) 
 Image (every question will have an image associated with it) 
