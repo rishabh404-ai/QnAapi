@@ -40,8 +40,9 @@ DELETE : This API can also delete a question posted by a user
 ![](working-screenshots/Delete.jpg)
 
 
-Name of the django-main-project-file > RestQnAapi
-Name of the django-app > app
+• Name of the django-main-project-file > RestQnAapi
+
+• Name of the django-app > app
 
 >> How to get the app running ?
 
