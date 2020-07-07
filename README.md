@@ -1,7 +1,7 @@
 # QnAapi with Heroku Web Hosting 
 Heroku Web hosting of this API link is given at the bottom of the Readme file. 
 
-You can directly view the API from heroku link attached at bottom.
+You can directly view the API from the link.
 
 Structure of a question:
 Every question in have these fields → Text (ex: “What is Java?”) 
