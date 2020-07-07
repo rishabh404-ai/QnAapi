@@ -1,7 +1,7 @@
 # QnAapi with Heroku Web Hosting 
 Heroku Web hosting of this API link is given at the bottom of the Readme file. 
 
-
+You can directly view the API from heroku link attached at bottom.
 
 Structure of a question:
 Every question in have these fields → Text (ex: “What is Java?”) 
@@ -66,4 +66,5 @@ Heroku Web Hosting > This app is also hosted on the web with heroku. Please find
 
 >>     https://qnarestapi.herokuapp.com/Questions/
 Link - https://qnarestapi.herokuapp.com/Questions/
+
 If you are facing any issue, Please reach me through mail - mishrarishabh404it@gmail.com
