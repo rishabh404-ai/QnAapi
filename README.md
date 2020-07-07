@@ -45,7 +45,7 @@ DELETE : This API can also delete a question posted by a user
 2. Download the currently used libraries in this project by running these commands :
                    > pip install django 
                    > pip install djangorestframework
-                   > pip install django_filter
+                   > pip install django-filter
                    > pip install django-import-export 
                   (Ignore & Skip this step if these are already installed in your pc)
 3. Save everything
