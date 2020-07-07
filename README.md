@@ -39,7 +39,7 @@ DELETE : This API can also delete a question posted by a user
 
 ![](working-screenshots/Delete.jpg)
 
->>> How to get the app running ?
+>> How to get the app running ?
 
 1. Download/Clone the code and open it in any IDE (Microsoft Visual Studio Code) Preffered
 2. Download the currently used libraries in this project by running these commands :
