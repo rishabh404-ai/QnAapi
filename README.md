@@ -50,6 +50,6 @@ DELETE : This API can also delete a question posted by a user
                   (Ignore & Skip this step if these are already installed in your pc)
 3. Save everything
 4. Finally run command > python manage.py runserver
-5. Please do migrations if things doesn't work but as we are using default dbsqlite so it wont be an issue.
+5. (Optional) Please do migrations if things doesn't work but as we are using default dbsqlite so it wont be an issue.
 
 If you are facing any issue, Please reach me through mail - mishrarishabh404it@gmail.com
