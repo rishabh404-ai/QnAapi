@@ -38,6 +38,9 @@ List of questions with tags "java", "moderate".
 List of questions with tags "django"
 ![](working-screenshots/Search_Get4.jpg)
 
+Note : You can only search by TAG field (By entering tags only) 
+and not by any other field.
+
 
 DELETE : This API can also delete a question posted by a user
 
