@@ -29,13 +29,13 @@ PUT: Given the question id, this API will update the data related to that partic
 GET: Given a single tag or a list of tags, this API will return a list of questions which have those tags. Just find Filter option in above right corner & Go to :
 (Filters > Search > Enter tags to search).
 You can also arrange the api in ascending/descending order of ids.
-
+Lets see some example :-
 ![](working-screenshots/Search_Get1.jpg)
-
+List of questions with tags "java", "moderate".
 ![](working-screenshots/Search_Get2.jpg)
 
 ![](working-screenshots/Search_Get3.jpg)
-
+List of questions with tags "django"
 ![](working-screenshots/Search_Get4.jpg)
 
 
